@@ -1,2 +1,2 @@
 # MovieLand
-A movie search App using OMDb API, built with React.
+A movie search App with OMDb API, built with React.
